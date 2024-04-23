@@ -1,0 +1,40 @@
+[
+  {
+    "type": "dropdown",
+    "labelName": "size",
+    "values": ["Small", "Medium", "Large"]
+  },
+  {
+    "type": "dropdown",
+    "labelName": "crust",
+    "values": [
+      "Classic Crust",
+      "Stuffed Crust",
+      "Italian Style",
+      "Thin and Crispy"
+    ]
+  },
+  {
+    "type": "dropdown",
+    "labelName": "sauce",
+    "values": ["Classic Tomato", "Sundried Tomato and Garlic", "Cheese", "BBQ"]
+  },
+  {
+    "type": "dropdown",
+    "labelName": "cheese",
+    "values": ["Mozzarella", "Reduced Fat"]
+  },
+  {
+    "type": "fieldset",
+    "labelName": "Toppings",
+    "values": [
+      "Pepperoni",
+      "Chicken",
+      "Ham",
+      "Mushrooms",
+      "Pineapple",
+      "Bacon",
+      "Extra Cheese"
+    ]
+  }
+]
